@@ -103,7 +103,7 @@ O Dr. Anderson escolheu a abordagem A e deixou a escolha da hospedagem com o Cla
 
 - Horário de atendimento: segunda a sexta, das 8h às 18h.
 - Endereço: Avenida E, número 1470, sala 608, Edifício JK New Concept, Jardim Goiás, Goiânia, Goiás, CEP 74810-030.
-- Logomarca: 4 (quatro) arquivos enviados (completa quadrada, somente o símbolo, faixa clara e faixa escura), guardados em `assets/logo/`. Como os arquivos são pequenos (372 pixels), o desenvolvedor deve redesenhá-los em formato vetorial (SVG), com fidelidade total ao original, para que fiquem nítidos em qualquer tela. A versão original é a referência e não pode ser alterada.
+- Logomarca: 4 (quatro) arquivos enviados (completa quadrada, somente o símbolo, faixa clara e faixa escura), guardados em `assets/logo/`. Os arquivos são pequenos (372 pixels), mas servem para os tamanhos em que a logomarca aparece no site. O desenvolvedor usa os arquivos como estão, apenas recortando o fundo, sem redesenhar nem recolorir. Se o escritório tiver o arquivo original do designer (formato SVG, PDF ou AI), ele substitui os atuais e deixa a logomarca mais nítida em telas grandes.
 
 ## 8. O que fica a cargo do desenvolvedor
 
