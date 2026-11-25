@@ -285,10 +285,10 @@ def pagina_inicial() -> str:
       <p class="lead">Contato próximo também se constrói com espaço para conversar, compreender e planejar.</p>
     </div>
     <div class="galeria revelar">
-      <figure>{foto(r, 'sala-convivencia', 'Sala de recepção do escritório, com sofá e poltronas', 1280, 960)}<figcaption>Recepção</figcaption></figure>
-      <figure>{foto(r, 'espaco-atendimento', 'Sala de atendimento do escritório', 1280, 960)}<figcaption>Sala de atendimento</figcaption></figure>
+      <figure>{foto(r, 'sala-convivencia', 'Sala de reunião do escritório, com sofá e poltronas', 1280, 960)}<figcaption>Sala de reunião</figcaption></figure>
+      <figure>{foto(r, 'espaco-atendimento', 'Recepção do escritório', 1280, 960)}<figcaption>Recepção</figcaption></figure>
       <figure>{foto(r, 'socios-poltrona', 'Roberta Alves e Anderson Arruda no escritório', 1000, 1558, extra=' style="object-position: center 25%"')}<figcaption>Os sócios</figcaption></figure>
-      <figure>{foto(r, 'area-convivencia', 'Área de convivência do Edifício JK New Concept à noite', 694, 567)}<figcaption>Área de convivência do edifício</figcaption></figure>
+      <figure>{foto(r, 'area-convivencia', 'Área de convívio à noite', 694, 567)}<figcaption>Área de convívio</figcaption></figure>
     </div>
   </div>
 </section>
