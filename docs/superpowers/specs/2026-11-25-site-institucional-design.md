@@ -65,10 +65,10 @@ O Dr. Anderson escolheu a abordagem A e deixou a escolha da hospedagem com o Cla
 ### Página principal (rolagem única, nesta ordem)
 
 1. **Cabeçalho fixo:** logomarca, menu (O escritório, Atuação, Sócios, Contato) e botão "Fale conosco", que abre o WhatsApp.
-2. **Abertura:** fundo marrom, título em Playfair Display ("Estratégia jurídica para proteger *o que importa*.", aproveitado do site antigo), foto dos sócios e 2 (dois) botões: conversar pelo WhatsApp e ver as áreas.
+2. **Abertura em tela cheia com a foto da fachada do prédio** (Edifício JK New Concept), no modelo do site do Jacó Coelho Advogados, a pedido do Dr. Anderson. Sobre a foto, uma película marrom (#322620) em degradê suave garante a leitura. Por cima vêm o título em Playfair Display ("Estratégia jurídica para proteger *o que importa*.", aproveitado do site antigo) e 2 (dois) botões: conversar pelo WhatsApp e ver as áreas. A foto dos sócios passa para a seção "O escritório".
 3. **Faixa de destaques:** "Advocacia desde 2013", "Atendimento presencial e online em todo o Brasil" e "5 (cinco) áreas de atuação". Apenas números verdadeiros e verificáveis, sem contagem de processos ou de vitórias.
 4. **Faixa com as áreas passando em movimento lento**, inspirada no site do Jacó Coelho Advogados.
-5. **O escritório:** texto do site antigo ("Mais do que conhecer a lei…"), revisado com as regras de escrita.
+5. **O escritório:** foto dos sócios trabalhando juntos e texto do site antigo ("Mais do que conhecer a lei…"), revisado com as regras de escrita.
 6. **Áreas de atuação:** 5 (cinco) cartões, cada um levando à página da área:
    - Família, Sucessões e Patrimônio
    - Direito Médico e da Saúde
@@ -99,11 +99,11 @@ O Dr. Anderson escolheu a abordagem A e deixou a escolha da hospedagem com o Cla
 
 - Título e descrição de cada página, dados estruturados de "escritório de advocacia" com endereço e horário, mapa do site e imagem de compartilhamento para o WhatsApp e as redes sociais.
 
-## 7. Questões em aberto (a confirmar com o Dr. Anderson)
+## 7. Dados confirmados pelo Dr. Anderson
 
-1. **Horário de atendimento:** o site antigo diz "das 8h às 18h" e o material de identidade diz "das 9h às 18h". Qual vale?
-2. **Nome do edifício:** "Edifício JK New Concept" ou "New Concept Business"?
-3. **Logomarca:** confirmar qual arquivo da pasta do Google Drive é a logomarca oficial, ou enviar o arquivo nas versões completa e somente o símbolo.
+- Horário de atendimento: segunda a sexta, das 8h às 18h.
+- Endereço: Avenida E, número 1470, sala 608, Edifício JK New Concept, Jardim Goiás, Goiânia, Goiás, CEP 74810-030.
+- Logomarca: 4 (quatro) arquivos enviados (completa quadrada, somente o símbolo, faixa clara e faixa escura), guardados em `assets/logo/`. Como os arquivos são pequenos (372 pixels), o desenvolvedor deve redesenhá-los em formato vetorial (SVG), com fidelidade total ao original, para que fiquem nítidos em qualquer tela. A versão original é a referência e não pode ser alterada.
 
 ## 8. O que fica a cargo do desenvolvedor
 
