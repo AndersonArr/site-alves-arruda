@@ -13,3 +13,6 @@ Site estático publicado em www.alvesarruda.com.br (GitHub Pages).
 
 ## Nova landing page
 Crie uma função de página em `tools/gerar_paginas.py` (use `pagina_area` como modelo) e grave em `nome-da-pagina/index.html`. Inclua o endereço no `sitemap()`.
+
+## Google Search Console
+O site é verificado pela tag `google-site-verification` (valor em `tools/conteudo.py`, variável `GOOGLE_VERIFICACAO`). Não remova: sem ela o escritório perde o acesso ao Search Console.
