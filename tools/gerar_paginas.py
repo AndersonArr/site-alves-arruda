@@ -91,6 +91,7 @@ def documento(r: str, caminho: str, titulo: str, descricao: str, corpo: str, ini
 <meta name="description" content="{escape(descricao)}">
 <link rel="canonical" href="{url}">
 <meta name="theme-color" content="#322620">
+<meta name="google-site-verification" content="{c.GOOGLE_VERIFICACAO}">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="{c.NOME}">

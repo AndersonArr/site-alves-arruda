@@ -154,3 +154,4 @@ PRINCIPIOS = [
     ("Advocacia preventiva", "Quando possível, organizamos relações e documentos para reduzir riscos e evitar conflitos."),
     ("Atuação técnica", "A estratégia se apoia na análise dos fatos, dos documentos e das normas e decisões aplicáveis."),
 ]
+GOOGLE_VERIFICACAO = "dWBzxlwmuNc7BcXcEHp_i7Mlz_Ma6tdE48Gez5xDyZk"
