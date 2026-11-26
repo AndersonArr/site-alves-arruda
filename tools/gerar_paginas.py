@@ -406,7 +406,7 @@ def pagina_404() -> str:
 
 
 def sitemap() -> str:
-    caminhos = [""] + [f"{a['slug']}/" for a in c.AREAS] + ["privacidade/"]
+    caminhos = [""] + [f"{a['slug']}/" for a in c.AREAS] + ["privacidade/", "mentoria/"]
     urls = "\n".join(f"  <url><loc>{c.DOMINIO}/{p}</loc><lastmod>2026-11-25</lastmod></url>" for p in caminhos)
     return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{urls}\n</urlset>\n'
 

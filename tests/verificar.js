@@ -7,7 +7,7 @@ const path = require("path");
 
 const RAIZ = path.resolve(__dirname, "..");
 const CAPTURAS = process.argv[2];
-const PAGINAS = ["/", "/familia/", "/direito-medico/", "/saude-autismo-inclusao/", "/civil-consumidor/", "/empresarial/", "/privacidade/", "/404.html"];
+const PAGINAS = ["/", "/mentoria/", "/familia/", "/direito-medico/", "/saude-autismo-inclusao/", "/civil-consumidor/", "/empresarial/", "/privacidade/", "/404.html"];
 const LARGURAS = [360, 1366];
 const NUMEROS = ["5562985109393", "5562982624401"];
 const PROIBIDAS = [/\bAv\.\s/, /\bEd\.\s/, /\bnº/, /\bart\.\s/i, /\bCPC\b/, /\bCF\b/, /\bDra?\.\s/, /\bSeg\b/, /\bSTJ\b/, /\bSTF\b/];
