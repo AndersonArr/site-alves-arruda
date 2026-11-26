@@ -41,6 +41,7 @@ def cabecalho(r: str, inicio: bool) -> str:
       <a href="{ancora}atuacao">Atuação</a>
       <a href="{ancora}socios">Sócios</a>
       <a href="{ancora}contato">Contato</a>
+      <a href="{r}mentoria/">Mentoria</a>
       <a class="botao botao-principal" href="{whats(c.WHATS_ANDERSON)}" target="_blank" rel="noopener">Fale conosco {SETA}</a>
     </nav>
   </div>
@@ -62,6 +63,7 @@ def rodape(r: str) -> str:
         <li><a href="{r}#sobre">O escritório</a></li>
         <li><a href="{r}#socios">Sócios</a></li>
         <li><a href="{r}#espaco">Nosso espaço</a></li>
+        <li><a href="{r}mentoria/">Mentoria para advogados</a></li>
         <li><a href="{r}privacidade/">Política de privacidade</a></li>
       </ul></div>
       <div><h4>Contato</h4><ul>
