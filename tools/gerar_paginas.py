@@ -425,7 +425,7 @@ def main() -> None:
     gravar("404.html", pagina_404())
     gravar("sitemap.xml", sitemap())
     gravar("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {c.DOMINIO}/sitemap.xml\n")
-    # O arquivo CNAME (www.alvesarruda.com.br) entra quando o DNS do Registro.br for apontado.
+    gravar("CNAME", "www.alvesarruda.com.br\n")
 
 
 if __name__ == "__main__":
